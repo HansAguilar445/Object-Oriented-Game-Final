@@ -1,0 +1,853 @@
+﻿Sword
+Junk Sword
+A makeshift sword. Not the greatest, but it'll get the job done.
+1
+100
+50
+0
+20
+0
+0
+0
+0
+Gladius
+A Roman sword for foot soldiers. Lightweight and reliable, it's a perfect sword for an ordinary warrior.
+3
+1000
+500
+0
+30
+0
+0
+10
+0
+Kampilan
+A Filipino longsword. Cuts deeply when striking a target's weak points but its weight makes it a little harder to hit with.
+3
+1000
+500
+0
+45
+0
+0
+-15
+10
+Claymore
+A Scottish greatsword. Fantastic at inflicting grievous wounds, but leaves one open in the middle of a swing.
+5
+2000
+1000
+0
+100
+0
+-25
+-15
+0
+Nodachi
+A Japanese longsword with a very long reach. Accurate, but difficult to sheathe and even harder to aim at vital points.
+5
+2000
+1000
+0
+90
+0
+-80
+85
+-5
+Spatha
+A Celtic longsword. A balance between reach, precision, and maneuverability.
+5
+1500
+750
+0
+85
+0
+0
+40
+10
+Shieldblade
+A greatsword that doubles as a shield. While difficult to swing, its large size also makes it easier to use for defensive purposes.
+7
+3000
+1500
+250
+250
+250
+-200
+-90
+-5
+Energy Saber
+An energy-based blade. Light in a literal sense and very precise, but incapable of landing critical hits.
+7
+2500
+1250
+0
+175
+0
+0
+400
+-100
+Soulseeker
+A katana with an evil vibe. Its wielder, in a trance, ignores their own wellbeing in favour of victory.
+7
+4000
+2000
+0
+400
+-300
+0
+0
+50
+Monohoshizao
+A nodachi that belonged to a mysterious swordsman. Precise enough to cut a flying swallow down, but large and unwieldy.
+15
+16000
+8000
+0
+750
+0
+-400
+700
+20
+Ultra Edge
+An incredibly large sword. One wonders how anyone wielded it before.
+15
+16000
+8000
+0
+1500
+0
+-400
+-400
+-20
+Buster Blade
+A large, angular sword. Due to its appearance resembling a sharpened slab of metal, swinging it is difficult but cuts like a knife through butter.
+20
+320000
+160000
+0
+2500
+0
+-500
+-500
+-10
+Sword of Endings
+A strangely shaped, katana-like sword with a circular opening in the hilt. Its streamlined design allows for swing speeds thought impossible.
+20
+77777
+38888
+0
+1000
+0
+300
+250
+50
+Adamant Shell 
+A Shieldblade with several upgrades. Among these is an antigravity generator, making it much easier to swing.
+20
+320000
+160000
+0
+1100
+800
+0
+0
+0
+Axe
+Rusty Axe
+An old axe that time has worn down. Restoration is impossible at this stage.
+1
+100
+50
+0
+40
+-10
+0
+0
+0
+Tomahawk
+A throwing axe of Native American origin. Works as both a melee weapon and a ranged weapon.
+3
+1000
+500
+0
+60
+-10
+10
+5
+10
+Battle Axe
+What you'd expect when you hear the name 'battle axe'. Heavy and slow, but strong.
+3
+1000
+500
+0
+75
+0
+-15
+-5
+0
+Francisca
+A throwing axe of Frankish origin. Not to be confused with the prosecutor with a similar-sounding name.
+3
+1000
+500
+0
+65
+0
+0
+0
+5
+Hatchet
+An axe with a hammer side for travelling. If it can help a 13-year-old survive for days in the wild alone, it can help you win a fight.
+5
+2000
+1000
+100
+85
+30
+0
+0
+5
+Poleaxe
+A polearm with an axe head. Designed to break armour.
+5
+1500
+750
+0
+95
+0
+0
+0
+0
+Golden Axe of Honesty
+Did you drop this? Or the silver axe? Or perhaps... the rusty axe? Then you may have them all - except we're all out of silver axes.
+7
+3000
+1500
+0
+125
+0
+0
+50
+0
+Ship of Theseus
+An oddly-shaped axe that resembles the steering wheel of a boat. Still functions as a wheel somehow, but this makes it less stable.
+7
+4000
+2000
+0
+110
+0
+-30
+-30
+15
+Forseti
+A justice god's axe. Throw it when you're thirsty and you'll find some water pretty quickly.
+7
+4000
+2000
+150
+120
+0
+0
+50
+5
+Aymr
+A skeletal axe with a gemstone embedded in it. A conquering emperor once wielded it, but her empire has long since vanished.
+15
+16000
+8000
+-1000
+800
+-500
+-250
+0
+20
+Labrys
+A double-bitted axe wielded by several deities. How did the arena officials even find this?
+15
+16000
+8000
+0
+1000
+0
+0
+200
+10
+Terminal Axe
+An incredibly large axe once possessed by a dark god. They must have been pretty big to swing this.
+20
+320000
+160000
+-1500
+2000
+-500
+-300
+0
+5
+Strikeshield
+An alien transforming axe that doubles as a shield. One phrase comes to mind when wielding this: "Be strong enough to be gentle."
+20
+320000
+160000
+1984
+1100
+700
+0
+0
+0
+Polearm
+Stick
+A big stick from a fallen tree branch. Surprisingly stable.
+1
+100
+50
+0
+20
+0
+0
+0
+0
+Quarterstaff
+A simple combat staff. No blades, no spikes, just a pure blunt force weapon.
+3
+1000
+500
+0
+45
+0
+0
+5
+0
+Spear
+A standard spear. Stabbing, throwing, deflecting, it's simple and effective.
+3
+1000
+500
+0
+30
+0
+5
+0
+5
+Javelin
+A lightweight spear for throwing. Why design something more complex when you can just make a lighter spear?
+5
+2000
+1000
+0
+100
+-20
+15
+0
+5
+Naginata
+A Japanese polearm with a curved blade on its end. Its weight distribution allows for quick swings without compromising balance.
+5
+2000
+1000
+0
+85
+10
+10
+0
+10
+Trident
+An impaling weapon with three prongs. Obtained from the ocean's infestation of swimming zombies.
+5
+1500
+750
+0
+85
+0
+0
+0
+5
+Rhongomyniad
+A lance supposedly owned by King Arthur. Dropped in favour of Excalibur and mostly forgotten about.
+7
+4000
+2000
+100
+125
+60
+-60
+0
+10
+Durindana
+A sword-staff from the Trojan War. What happened to Durandal?
+7
+4000
+2000
+0
+200
+0
+0
+0
+5
+Trolley Problem
+A quarterstaff designed like a train track switch. Ethical dilemma not included.
+7
+4000
+2000
+500
+125
+300
+-300
+0
+0
+Gradivus
+A halberd from a kingdom long since disappeared. Belongs in a museum given how many times it's been stolen.
+15
+16000
+8000
+0
+700
+0
+0
+100
+15
+Contradiction
+A symbolic halberd that is said to pierce anything. Do not pit against a shield that can block anything.
+15
+16000
+8000
+0
+500
+-300
+0
+100
+30
+Spear of Longinus
+A red bident with a twisted pattern in its construction. Rather impactful.
+20
+320000
+160000
+-1000
+1500
+-700
+600
+0
+50
+Gungnir
+A spear said to be owned by Odin. Its last owner was a vampire who sold it for funds to repair her mansion for the umpteenth time.
+20
+8112002
+4056001
+0
+1000
+0
+300
+700
+10
+Drone
+Makeshift Combat Drone
+A civilian drone with a knife duct taped to it. Needs a replacement as soon as possible.
+1
+100
+50
+0
+10
+0
+10
+0
+0
+Support Drone
+A drone that is designed with the directive to defend. A friend to some and a foe to others.
+3
+1000
+500
+50
+25
+10
+10
+0
+0
+Interceptor Drone
+A drone designed to eliminate targets before any harm can come to their operator. Good drone!
+3
+1000
+500
+0
+30
+0
+10
+0
+5
+Ornithopter
+Is it a bird? Is it a plane? No, it's... a drone shaped like a bird.
+5
+1500
+750
+0
+60
+0
+0
+-10
+5
+Gunner Drone
+A drone armed with a powerful onboard gun. It costs 400 000 gold to fire it at maximum power for 12 seconds.
+5
+2000
+1000
+0
+80
+0
+-10
+-10
+0
+Bomber Drone Swarm
+A swarm of drones armed with grenades. A surprise every time for their targets - a painful one.
+5
+2000
+1000
+-50
+100
+-50
+30
+0
+0
+Bionic Bird
+An alien robot bird with red details. Becomes a cassette tape when not in use.
+7
+4000
+2000
+0
+150
+0
+75
+60
+15
+Balance Sphere
+An orb designed after the yin-yang symbol. Capable of creating a bulllet hell of ofuda if used to its full potential.
+7
+4000
+2000
+0
+100
+0
+50
+85
+5
+Predatory Bionic Bird
+A yellow repaint of the Bionic Bird. Has felled an incredibly powerful and fearsome robot on its own before.
+15
+16000
+8000
+0
+600
+0
+200
+200
+25
+Roller Drone
+A ground drone armed with an ion blaster. Gives off a heroic vibe.
+15
+16000
+8000
+1000
+700
+100
+100
+100
+0
+Conquest
+A coffin-shaped cannon that doubles as an orbital strike cannon. Its projectiles deal 1d4 damage every time - literally. 
+20
+202020
+101010
+0
+1200
+0
+300
+100
+50
+Katashiro Swarm
+A swarm of paper talismans controlled by a gauntlet. Once they have a target, they will follow it to the ends of the world.
+20
+3333333
+1666667
+2000
+750
+200
+500
+400
+0
+Knife
+Kitchen Knife
+A simple kitchen knife. Serial number 11037 of many.
+1
+100
+50
+0
+20
+0
+10
+0
+0
+Kukri
+A machete of ancient origins. It can cut effectively, but stabbing is out of the question.
+3
+1000
+500
+0
+35
+0
+0
+10
+-5
+Balisong
+A Filipino flip knife. Its moving parts make unfolding it into a battle-ready position a fun challenge.
+3
+1000
+500
+0
+30
+0
+0
+15
+5
+Kunai
+A knife wielded by ninjas. Contrary to popular belief, it is not for throwing.
+5
+2000
+1000
+0
+50
+0
+20
+0
+10
+Ballistic Knife
+A knife with a mechanism to launch the blade as a projectile. Not the most practical ranged weapon.
+5
+1500
+750
+0
+60
+0
+0
+0
+0
+Scalpel
+A knife for precise medical procedures. Who knows where it's been?
+5
+1500
+750
+150
+45
+0
+0
+30
+15
+Dagger of Twin Doves
+A dagger from an alien planet bearing its royal family's symbol. Bitterly ironic, given that they were invaders.
+7
+4000
+2000
+0
+90
+0
+60
+0
+10
+Mage Queen's Blade
+A golden dagger of a long-dead queen. Within it burns a powerful sealed flame.
+7
+4000
+2000
+-50
+110
+0
+0
+0
+-5
+Guard Skill: Hand Sonic
+A pair of parrying blades made of solid light. They give off a heavenly vibe, as if crafted by an angel.
+15
+16000
+8000
+500
+500
+200
+300
+150
+15
+Carnwennan
+One of King Arthur's treasured weapons. It is said that this dagger can erase its user's presence from the world at large.
+15
+16000
+8000
+0
+625
+-600
+600
+0
+0
+Seven Nights
+A switchblade that looks perfectly ordinary. Can sever conceptual lifelines if swung precisely enough.
+20
+320000
+160000
+-500
+1250
+0
+500
+0
+40
+Occam's Razor
+The law of parsimony crystalized into one powerful weapon. Not to be confused with Newton's Flaming Laser Sword.
+20
+999999999
+999999999
+0
+900
+0
+0
+1000
+100
+Rifle
+Musket
+An antiquated rifle. Slow to use and less accurate than one would hope, but it works.
+1
+100
+50
+0
+15
+0
+0
+0
+0
+Lever Action Rifle
+An older rifle. Its loading mechanism is unusual, but effective.
+3
+1000
+500
+0
+45
+0
+0
+15
+0
+Revolving Rifle
+An experimental rifle concept from America. Its design makes it powerful but less appealing to use.
+3
+1000
+500
+-50
+60
+-10
+0
+0
+5
+Anti-Materiel Rifle
+A rifle designed to eliminate military equipment. High-power, low stealth.
+5
+2000
+1000
+0
+200
+0
+-30
+0
+10
+Assault Rifle
+A modern weapon with a high fire rate. The rate of fire compensates for its weaker firepower.
+5
+2000
+1000
+0
+100
+0
+0
+30
+0
+Anti-Personnel Rifle
+A simple sniper rifle. Its pinpoint precision makes it easy to hit weak points.
+5
+1500
+750
+0
+125
+0
+0
+60
+15
+Neutron Assault Rifle
+A bright yellow alien weapon with two barrels. Appears to be a scout's prefered rifle on the field.
+7
+4000
+2000
+0
+250
+0
+40
+20
+0
+Skadi
+A sniper rifle seemingly made of ice. Powerful but fragile.
+7
+4000
+2000
+-300
+300
+-50
+0
+30
+10
+Gunrod
+A rifle-staff fusion. The wielder may feel more alive than before just by using it.
+7
+4000
+2000
+300
+200
+0
+0
+10
+0
+Afterlife Armament
+A rifle crafted by the hands of one who has seen what lies beyond the grave. Designed to kill angels.
+15
+16000
+8000
+0
+700
+0
+0
+200
+20
+Multithread
+A steampunk firearm. Imbues the wielder with a fraction of its original owner's speed.
+15
+16000
+8000
+0
+650
+0
+400
+200
+5
+Black Barrel
+The ultimate weapon against immortal opponents. Imposes the very concept of death on its targets.
+20
+320000
+160000
+-500
+1500
+0
+-200
+600
+35
+Ghostmaker
+A weapon that embodies the idea of 'shoot-to-kill'. Its shots rarely miss a vital point.
+20
+320000
+160000
+0
+1000
+0
+500
+600
+60

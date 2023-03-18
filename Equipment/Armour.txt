@@ -1,0 +1,300 @@
+﻿Light
+Cloak
+A lightweight cloak. Doesn't offer much protection but does the job.
+1
+100
+50
+100
+0
+5
+10
+0
+0
+Leather Armour
+A set of leather armour. Better than nothing, but not the best.
+3
+1000
+500
+250
+0
+25
+15
+0
+0
+Assassin's Garb
+An assassin's prefered wear. It possesses a wide range of movement, making fleeing the scene much easier.
+3
+1000
+500
+150
+0
+10
+50
+0
+0
+Dazzling Cloak
+A cloak with an irregular stripe pattern. The pattern makes depth perception harder.
+5
+2000
+1000
+200
+0
+25
+75
+0
+0
+Studded Leather Armour
+A set of studded leather armour. Mundane, but it can take a decent beating.
+5
+2000
+1000
+350
+0
+75
+5
+0
+0
+Zephyr's Garb
+The outfit of one who moves like a leaf in the wind. However, they fold just as easily.
+7
+3000
+1500
+500
+0
+-200
+300
+0
+0
+Chameleon Vest
+A camouflage vest. Changes pattern depending on the environment.
+7
+4000
+2000
+450
+0
+200
+150
+0
+0
+Brigade Chief's Uniform
+A sailor uniform with a yellow ribbon and a red arm band adorned with kanji. Whoever used to own this must have been a peculiar person.
+15
+15498
+7749
+700
+100
+450
+450
+0
+0
+Lone Swordsman's Cape
+A cape that looks like a pair of bat wings when viewed from the front. Wearing this gives one a drive to seek the strongest opponents.
+15
+16000
+32000
+700
+150
+300
+450
+0
+10
+Medium
+Scale Armour
+A suit of armour made up of small, scale-shaped plates. The scales are not from animals.
+1
+100
+50
+150
+0
+20
+15
+0
+0
+Klivanion
+A Byzantine cuirass made of leather and metal. It gets very hot in sunny weather.
+3
+500
+250
+300
+0
+40
+30
+0
+0
+Lorica Plumata
+A suit of armour made of feather-shaped plates. Oddly familiar...
+3
+1000
+500
+450
+0
+60
+45
+0
+0
+Riot Gear
+A modern suit of armour for suppressing riots. Now being used in a more fitting setting.
+5
+2000
+1000
+600
+30
+80
+70
+0
+0
+Jack of Plate
+A garment of felt, canvas, and metal recycled from plate armour. Arrow injuries are a thing of the past with this on.
+5
+2000
+1000
+600
+0
+100
+90
+0
+0
+War Hero's Suit
+A fancy suit to wear in battle. It looks formal enough to wear as a prosecutor in court.
+7
+4000
+2000
+750
+0
+150
+120
+0
+0
+Pilot's Wear
+A military pilot's standard uniform. Filled with survival tools in the event of a crash.
+7
+4000
+2000
+800
+40
+100
+120
+0
+0
+Exosuit
+An all-encompassing exosuit. Possesses a transformation function to allow for speedy escapes from any incidents.
+15
+16000
+8000
+1000
+100
+400
+200
+0
+0
+Grandmaster's Garb
+A suit of armour enchanted to light enough for even a mage to wear. Comes with a cape for extra flair.
+15
+16000
+8000
+1000
+0
+300
+350
+0
+15
+Heavy
+Chainmail
+Simple chainmail armour. The small openings are exploitable, but slashes are less likely to hurt.
+1
+100
+50
+300
+0
+40
+20
+0
+0
+Almain Rivet Armour
+German plate armour. The plates offer a decent balance of mobility and protection.
+3
+1000
+500
+450
+0
+80
+60
+0
+0
+Maximillian Armour
+Armour based on the kind worn by Emperor Maximillian I. Its design was modeled after clothes in fashion at the time.
+3
+1000
+500
+500
+0
+100
+0
+0
+0
+Cuirassier Armour
+Plate armour worn by cavalrymen. The cuirass is the most important part, because otherwise its name would be lying.
+5
+2000
+1000
+650
+0
+170
+40
+0
+0
+Jousting Armour
+Armour used in jousting competitions. Rigid enough to withstand would-be grievous blows, but highly inhibits the user's movement.
+5
+2000
+1000
+1000
+0
+300
+-300
+-50
+-10
+Guardian Armour
+Armour made from the remnants of ancient technology. Looks like it belongs in a sci-fi comic book.
+7
+4000
+2000
+750
+0
+250
+60
+0
+0
+Iron Titan Armour
+A suit of armour that takes the flame of life within its wearer and transforms it into firepower. Do not overclock.
+7
+4000
+2000
+400
+100
+225
+50
+0
+0
+Deimos Protector
+A mechanical suit that allows for full range of motion with a high level of protection. Long transformation sequence not included.
+15
+16000
+8000
+1000
+250
+350
+100
+0
+0
+Great Fortress Suit
+A headless machine with the protection of a fortress. The wearer forms the head.
+15
+16000
+8000
+1000
+0
+500
+30
+0
+0

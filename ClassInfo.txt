@@ -1,0 +1,60 @@
+﻿Knight
+Fight with a balance of offence and defence.
+250
+30
+25
+20
+25
+5
+Sword
+Medium
+Berserker
+Fight with a focus on attack, sacrificing everything else other than your critical hit rate.
+100
+45
+5
+10
+20
+15
+Axe
+Heavy
+Lancer
+Fight defensively, keeping enemies at further than an arm's length away.
+400
+20
+30
+15
+25
+0
+Polearm
+Heavy
+Engineer
+Deploy a drone to gun down your opponent. Less burdened, but not as effective.
+100
+20
+15
+30
+25
+0
+Drone
+Light
+Rogue
+Cut the enemy to ribbons with a knife. Focuses on agility and critical hits.
+200
+15
+10
+35
+25
+20
+Knife
+Light
+Sniper
+Guns down targets with pinpoint accuracy, but sacrificing mobility in exchange.
+200
+30
+15
+5
+45
+15
+Rifle
+Medium
